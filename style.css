@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(0, 255, 64);
+    color:darkblue;
+}
+#img_rec{
+    width:80%;
+    font-size: 25px;
+}
+#webcam{
+    border:2px dashed lightgray;
+    width:350px;
+    height:250px;
+}
+.name_of_obj, #span_obj, #span_acc{
+    color: yellow;
+}
